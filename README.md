@@ -1,4 +1,4 @@
-## Datastructure_C(2020.03~2020.06)
+## Datastructure_C
 1. Introduction to C
 2. Introduction to Data Structures
 3. Array   
